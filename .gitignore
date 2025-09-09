@@ -1,1 +1,35 @@
+# IDEs
+.vscode/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# Build
+/build/
+out/
+bin/
+target/
+.gradle/
+.gradle-cache/
+**/.classpath
+**/.project
+**/.settings/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs & temp
+*.log
+*.tmp
+*.swp
+
+# Java
+*.class
+
+# Intellij caches
+*.ipr
+*.iws
 
